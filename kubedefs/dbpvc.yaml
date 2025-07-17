@@ -5,7 +5,7 @@ metadata:
   labels:
     app: vprodb
 spec:
-  storageClassName: default
+  storageClassName: do-block-storage
   accessModes:
     - ReadWriteOnce
   resources:

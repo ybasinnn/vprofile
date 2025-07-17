@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.hkhinfoteck.xyz
+  - host: app.kubevpro.danko123.ninja
     http:
       paths:
       - path: /
