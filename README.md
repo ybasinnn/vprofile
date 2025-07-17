@@ -1,3 +1,7 @@
+## Deployment
+
+The *vprofile* application was deployed on a DigitalOcean droplet using the `doctl` CLI tool. This includes creating the Kubernetes cluster, setting up the kubeconfig, and deploying all resources via `kubectl`.
+
 # Prerequisites
 #
 - JDK 11 
